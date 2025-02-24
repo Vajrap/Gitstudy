@@ -10,4 +10,7 @@ Hey_2
 
 2. then we 'commit' it into history;; jjjj
 3. when we have another branch
-2. 
+
+What's actually important it the
+1. HEAD
+2. base
