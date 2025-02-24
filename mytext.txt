@@ -1,0 +1,6 @@
+Save
+change is not recorded 'yet'
+commit -> wriiten down the 'change'
+
+1. we 'add' to the tracked record first -> staged
+2. then we 'commit' it into history
