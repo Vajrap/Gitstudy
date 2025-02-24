@@ -6,4 +6,6 @@ commit -> wriiten down the 'change'
 
 HEY
 
+Hey_2
+
 2. then we 'commit' it into history
