@@ -11,7 +11,7 @@ Hey_2
 2. then we 'commit' it into history;; jjjj
 3. when we have another branch
 
-What's actually important it the
+What's actually important it the HOOOOWWL
 1. HEAD
 2. base
 
